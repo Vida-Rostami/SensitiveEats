@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.Api", "SensitiveEats.Api\SensitiveEats.Api.csproj", "{BAA231B8-78FD-4DF6-8D51-F651EA2E41B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.Domain", "SensitiveEats.Domain\SensitiveEats.Domain.csproj", "{F323992F-E486-4861-AEE6-DBEEC7209A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.Service", "SensitiveEats.Service\SensitiveEats.Service.csproj", "{7C23A67F-74D0-45F4-8973-A20688DCDC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.Repository", "SensitiveEats.Repository\SensitiveEats.Repository.csproj", "{E8B15BBA-621B-4742-B015-DE0DC5F3D69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.Validation", "SensitiveEats.Validation\SensitiveEats.Validation.csproj", "{C2E6C96C-28ED-4715-BF44-3694E915D0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveEats.DataAccess", "SensitiveEats.DataAccess\SensitiveEats.DataAccess.csproj", "{4C3C795A-2425-478F-BF6B-CEE231B08CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA231B8-78FD-4DF6-8D51-F651EA2E41B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA231B8-78FD-4DF6-8D51-F651EA2E41B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA231B8-78FD-4DF6-8D51-F651EA2E41B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA231B8-78FD-4DF6-8D51-F651EA2E41B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F323992F-E486-4861-AEE6-DBEEC7209A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F323992F-E486-4861-AEE6-DBEEC7209A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F323992F-E486-4861-AEE6-DBEEC7209A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F323992F-E486-4861-AEE6-DBEEC7209A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C23A67F-74D0-45F4-8973-A20688DCDC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C23A67F-74D0-45F4-8973-A20688DCDC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C23A67F-74D0-45F4-8973-A20688DCDC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C23A67F-74D0-45F4-8973-A20688DCDC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B15BBA-621B-4742-B015-DE0DC5F3D69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B15BBA-621B-4742-B015-DE0DC5F3D69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B15BBA-621B-4742-B015-DE0DC5F3D69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B15BBA-621B-4742-B015-DE0DC5F3D69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E6C96C-28ED-4715-BF44-3694E915D0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E6C96C-28ED-4715-BF44-3694E915D0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E6C96C-28ED-4715-BF44-3694E915D0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E6C96C-28ED-4715-BF44-3694E915D0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3C795A-2425-478F-BF6B-CEE231B08CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3C795A-2425-478F-BF6B-CEE231B08CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3C795A-2425-478F-BF6B-CEE231B08CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3C795A-2425-478F-BF6B-CEE231B08CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D92F3133-8E9B-4212-8409-9D64CE2E6B31}
+	EndGlobalSection
+EndGlobal
